@@ -1,4 +1,5 @@
 hello uploading to github
 this is the 2nd commit in file1
 this is the feature-commit:wq!
-
+checking the diff between working area and staging area
+checking the version using the tags
